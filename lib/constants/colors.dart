@@ -1,0 +1,16 @@
+import 'package:flutter/material.dart';
+
+const PRIMARY_COLOR =  Color(0XFF0277BD);
+const APP_GREEN_COLOR = Color(0XFF42D235);
+const APP_GREENN_COLOR = Color(0XFF43A047);
+const APP_GREY_COLOR = Color(0XFFB1B1B1);
+const APP_RED_COLOR = Color(0XFFEF2323);
+const APP_YELLOW_COLOR = Colors.yellow;
+const APP_DRAWER_COLOR = Color(0XFFE3F2FD);
+const APP_BLACK_COLOR = Color(0XFF000000);
+const APP_WHITE_COLOR = Color(0XFFFFFFFF);
+const APP_CYAN_COLOR = Color(0XFF00BCD4);
+const APP_TEAL_COLOR = Color(0XFF009688);
+const APP_PURPLE_COLOR = Color(0XFF9C27B0);
+const APP_BROWN_COLOR = Color(0XFF795548);
+
